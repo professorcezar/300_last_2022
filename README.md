@@ -1,1 +1,1 @@
-# 300_last_2022
+# README for the last class of 2022
